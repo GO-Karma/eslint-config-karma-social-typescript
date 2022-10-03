@@ -7,12 +7,14 @@
   "author": "AuroPick <aykutsakibusiness@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@gokarma/eslint-config-karma-social": "ssh://git@github.com:GO-Karma/eslint-config-karma-social.git",
     "@typescript-eslint/eslint-plugin": "^5.13.0",
     "@typescript-eslint/parser": "^5.0.0",
     "eslint-config-airbnb-typescript": "^17.0.0"
   },
   "peerDependencies": {
     "eslint": "^8.2.0",
+    "eslint-plugin-import": "^2.25.3",
     "prettier": "^2.7.1"
   },
   "devDependencies": {
