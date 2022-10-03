@@ -133,9 +133,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@gokarma/eslint-config-karma-social@ssh://git@github.com:GO-Karma/eslint-config-karma-social.git":
+"@gokarma/eslint-config-karma-social@^1.0.0":
   version "1.0.0"
-  resolved "ssh://git@github.com:GO-Karma/eslint-config-karma-social.git#2b9df48abb9a3aa18f62d0c4cce007384a397df4"
+  resolved "https://registry.yarnpkg.com/@gokarma/eslint-config-karma-social/-/eslint-config-karma-social-1.0.0.tgz#949028b2f249dbe5b8c24cf32b0aba35778e2318"
+  integrity sha512-qFJiSCtU10Ijj5bOcJSNp/dw/WqfvxxCECwJhsjA48/IZ9qoVa4hp5OHmnKXcO9xNupCZKOSqW15U8VTwzn/KQ==
   dependencies:
     eslint-config-airbnb "^19.0.4"
     eslint-config-prettier "^8.5.0"
