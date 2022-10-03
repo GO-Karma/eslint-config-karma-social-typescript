@@ -14,7 +14,6 @@
   },
   "peerDependencies": {
     "eslint": "^8.2.0",
-    "eslint-plugin-import": "^2.25.3",
     "prettier": "^2.7.1"
   },
   "devDependencies": {
