@@ -1,6 +1,6 @@
 {
   "name": "@gokarma/eslint-config-karma-social-typescript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Karma Social's TypeScript ESLint config",
   "main": "index.js",
   "repository": "https://github.com/GO-Karma/eslint-config-karma-social-typescript.git",
