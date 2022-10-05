@@ -133,10 +133,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@gokarma/eslint-config-karma-social@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@gokarma/eslint-config-karma-social/-/eslint-config-karma-social-1.0.1.tgz#0b4b3a0d3be4a615e77f0f182571e5016a74cf2e"
-  integrity sha512-xFfc9jWYP1cjEF6rCthpBcZievQKcTLItgin6ow5NyFXOSmv3R4Fm0uO8BSFktZDSreMynx0yKQ/IGnM9m+9Bw==
+"@gokarma/eslint-config-karma-social@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@gokarma/eslint-config-karma-social/-/eslint-config-karma-social-1.0.2.tgz#12ea5bb0c8b2411e50e3b48080763f9a656bd6e7"
+  integrity sha512-wTL8R0EjImfJK5GqqzlRMNBRdOBuGjSuXs5HGm29YFUsWJVtX36lX1HItu3qoKZbgPxk8mAEAOoV0TG+8iAcEA==
   dependencies:
     eslint-config-airbnb "^19.0.4"
     eslint-config-prettier "^8.5.0"

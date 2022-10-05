@@ -1,9 +1,9 @@
 module.exports = {
-  extends: ["@gokarma/eslint-config-karma-social", "airbnb-typescript"],
   parser: "@typescript-eslint/parser",
   parserOptions: {
     project: "./tsconfig.json",
   },
+  extends: ["@gokarma/eslint-config-karma-social", "airbnb-typescript"],
   rules: {
     // allow "_id" property
     "no-underscore-dangle": ["error", { allow: ["_id"] }],
