@@ -1,6 +1,6 @@
 {
   "name": "@gokarma/eslint-config-karma-social-typescript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Karma Social's TypeScript ESLint config",
   "main": "index.js",
   "repository": "https://github.com/GO-Karma/eslint-config-karma-social-typescript.git",
@@ -11,6 +11,7 @@
     "@typescript-eslint/eslint-plugin": "^5.13.0",
     "@typescript-eslint/parser": "^5.0.0",
     "eslint-config-airbnb-typescript": "^17.0.0",
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0"
   },
   "peerDependencies": {
