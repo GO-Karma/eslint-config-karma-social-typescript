@@ -3,7 +3,7 @@ module.exports = {
   parserOptions: {
     project: './tsconfig.json'
   },
-  extends: ['@gokarma/karma-social', 'airbnb-typescript'],
+  extends: ['@gokarma/karma-social', 'airbnb-typescript', 'prettier'],
   rules: {
     // allow "_id" property
     'no-underscore-dangle': ['error', { allow: ['_id'] }],
