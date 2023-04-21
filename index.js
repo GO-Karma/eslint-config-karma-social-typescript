@@ -18,6 +18,12 @@ module.exports = {
     '@typescript-eslint/comma-dangle': ['error', 'never'],
 
     // show error if there is semicolon
-    '@typescript-eslint/semi': ['error', 'never']
+    '@typescript-eslint/semi': ['error', 'never'],
+
+    // allow private and protected
+    '@typescript-eslint/dot-notation': [
+      'error',
+      { allowPrivateClassPropertyAccess: true, allowProtectedClassPropertyAccess: true }
+    ]
   }
 }
